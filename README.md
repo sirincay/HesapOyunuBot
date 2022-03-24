@@ -9,5 +9,6 @@
 3
 `python3 main.py`
 
+_[@HusnuEhedov](https://t.me/husnuehedov)_
 
 _[Bu Repodan Yapıldı.](https://github.com/aykhan026/OyunBotTest)_
